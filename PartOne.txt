@@ -1,0 +1,27 @@
+Trace the following recursive methods. Explain in your own words what they do, 
+and answer the question provided by tracing the method by hand.
+1. public void mystery(int[] arr, int i) {
+        if (i < 0)
+            return;
+        System.out.println(arr[i]);
+        System.out.print(i);
+        mystery(arr, i-1);
+    }
+What does the call mystery(arr, 5); print when arr={1, 2, 3, 4, 5, 6}?
+
+How many times is mystery called?
+
+What is the purpose of this method?
+
+2. public int mystery(int x) {
+        if(x <= 5) {
+            return 12;
+        }
+        return mystery(x-2) * mystery(x-1);
+    }
+What does the call mystery(7) return? Include the value of x and what is 
+returned at each recursive call.
+
+How many times is mystery called?
+
+What does the method mystery do?
