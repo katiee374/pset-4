@@ -1,7 +1,7 @@
 # PSET 4: Recurison
 ## Part 1: Understanding Recursion
 In this first part of the assignment, you should work to understand the 
-purposes of recursive methods and walking through how they work. Answer the 
+purposes of recursive methods and reading through how they work. Answer the 
 questions in PartOne.txt before moving on to Part 2. This assignment is best 
 done in order.
 Goals:
@@ -13,6 +13,9 @@ In this part of the assignment, you will work to solve some classic recursion
 puzzles. You will gain the most from this assignment if you attend TA office 
 hours early on and give your mind time to work through these puzzles. Fill in 
 the methods in PartTwo.java.
+Useful links:
+[Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
+
 
 Goals:
  * Gain a thorough understanding of some classic introductory recursion 
