@@ -28,3 +28,11 @@ Goals:
  * Understand the value of recursive logic and learning it early in CS.
  * Compare and contrast recursion and iteration to see why iteration is not 
    the best approach to every problem.
+
+## Part 3: Practice with GUIs
+In this exercise, we'd like for you to create an application that contains the 
+following elements. You're welcome to use whatever thematic elements you'd like, 
+but the following GUI components must be present. Do your best to style your 
+application to look visually appealing, clearly organized, and creative.
+Your application should have:
+ * Two 
