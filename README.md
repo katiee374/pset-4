@@ -1,12 +1,14 @@
 # PSET 4: Recurison
 ## Part 1: Understanding & Writing with Recursion
 In this first part of the assignment, you should work to understand the 
-purposes of recursive methods and reading through how they work. Answer the 
+purposes of recursive methods and tracing through how they work. Answer the 
 questions in PartOne.txt and PartOne.java before moving on. PartOne.java may be 
 tricky, so you should consult TA office hours early and give your mind time 
 to work through the puzzles.
+
 Useful links:
 [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
+
 Goals:
  * Understand recursive methods and trace recursive calls by hand.
  * Demonstrate an understanding of recursive logic.
@@ -30,9 +32,6 @@ Goals:
    the best approach to every problem.
 
 ## Part 3: Practice with GUIs
-In this exercise, we'd like for you to create an application that contains the 
-following elements. You're welcome to use whatever thematic elements you'd like, 
-but the following GUI components must be present. Do your best to style your 
-application to look visually appealing, clearly organized, and creative.
-Your application should have:
- * Two 
+In this part of the PSET, you will practice identifying components of given 
+GUIs and recreate them using your JavaFX skills. Follow the instructions in 
+Part3.txt.
