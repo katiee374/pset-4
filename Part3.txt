@@ -1,0 +1,13 @@
+For each GUI file in the repository, do the following:
+1. Write up a description of the components visible in the screenshot
+   (i.e. buttons, stages, scenes, etc.).
+2. Recreate the GUI to the best of your ability.
+3. Upload your recreated GUI file to this repository.
+
+1. Write your description here:
+
+2. You do not need to recreate this one, but if you'd like a challenge, 
+   you're welcome to. Write your description here:
+
+3. Note: The "Hello, World" button should print "Hello, World" when pressed.
+   Write your description here:
